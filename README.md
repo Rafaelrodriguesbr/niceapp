@@ -24,7 +24,7 @@
 
 - Clone the repository
 ```
-git clone https://github.com/Rafaelrodriguesbr/niceapp/new/master
+git clone https://github.com/Rafaelrodriguesbr/niceapp/
 
 ```
 - Edit the variables in the file`variables.tf` 
