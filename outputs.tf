@@ -4,7 +4,7 @@
 output "answer_1" {
   value = "${
     formatlist(
-      "Vulnerability report available in ≅10 minutes in bucket (vulerability-reportniceapp-2019) :::::: %s ",
+      "Vulnerability report available in ≅10 minutes in the bucket (vulerability-reportniceapp-2019) :::::: %s ",
       aws_s3_bucket.bucket_report.arn ,   
     )}"
 
